@@ -2,7 +2,7 @@
 
 An interactive Streamlit app that plans the beta experiment for **Lucent**, an AI screen-time coaching app I'm building for iOS.
 
-**Live app:** [paste your Streamlit Cloud URL here after deploy]
+**Live app:** https://lucent-nudge-wissam-ezzedine.streamlit.app/
 **Portfolio:** https://wissam-ezzedine.netlify.app
 
 ## Why this exists
