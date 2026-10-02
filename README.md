@@ -14,9 +14,9 @@ Lucent's core thesis is that a well-timed coaching nudge reduces phone session l
 
 This app is the pre-registration document for that beta experiment. Three tabs:
 
-- **Sample size** — Given assumptions about baseline session length, variance, and effect size, how large does the beta need to be?
-- **Simulated experiment** — Set the true effect (I control it in simulation) and run the analysis I'd run on real data. Check whether the analysis correctly detects the truth.
-- **The peeking problem** — Simulate what happens when someone "checks the data every day and stops when p < 0.05." False positive rate should be 5%. It won't be.
+- **Sample size:** Given assumptions about baseline session length, variance, and effect size, how large does the beta need to be?
+- **Simulated experiment:** Set the true effect (I control it in simulation) and run the analysis I'd run on real data. Check whether the analysis correctly detects the truth.
+- **The peeking problem:** Simulate what happens when someone "checks the data every day and stops when p < 0.05." False positive rate should be 5%. It won't be.
 
 ## Stack
 

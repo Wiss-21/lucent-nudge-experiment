@@ -177,7 +177,7 @@ tab1, tab2, tab3 = st.tabs([
 ])
 
 # ============================================================
-# TAB 1 — SAMPLE SIZE
+# TAB 1: SAMPLE SIZE
 # ============================================================
 with tab1:
     st.markdown("### How many users do I need?")
@@ -271,7 +271,7 @@ with tab1:
     st.plotly_chart(fig, use_container_width=True)
 
 # ============================================================
-# TAB 2 — SIMULATION
+# TAB 2: SIMULATION
 # ============================================================
 with tab2:
     st.markdown("### Run a simulated beta")
@@ -389,7 +389,7 @@ with tab2:
             st.caption("At real effect = 0 the detection rate should hover near 5%.")
 
 # ============================================================
-# TAB 3 — PEEKING TRAP
+# TAB 3: PEEKING TRAP
 # ============================================================
 with tab3:
     st.markdown("### The peeking trap")
